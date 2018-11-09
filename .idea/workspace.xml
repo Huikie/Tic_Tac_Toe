@@ -11,22 +11,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379d2a9-6e2f-449a-b019-8df57b10862b" name="Default" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gradle/4.6/fileHashes/fileHashes.bin&#10;#&#9;.gradle/4.6/fileHashes/fileHashes.lock&#10;#&#9;.gradle/4.6/javaCompile/classAnalysis.bin&#10;#&#9;.gradle/4.6/javaCompile/javaCompile.lock&#10;#&#9;.gradle/4.6/taskHistory/taskHistory.bin&#10;#&#9;.gradle/4.6/taskHistory/taskHistory.lock&#10;#&#9;.gradle/buildOutputCleanup/buildOutputCleanup.lock&#10;#&#9;app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt&#10;#&#9;app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt&#10;#&#9;app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/daan/tic_tac_toe/MainActivity.class&#10;#&#9;app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/arch/lifecycle/viewmodel/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/compat/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/compat/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/constraint/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coordinatorlayout/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coordinatorlayout/R$layout.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coordinatorlayout/R$styleable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coreui/R$styleable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coreui/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/customview/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/customview/R$id.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/drawerlayout/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/fragment/R$id.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/fragment/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/fragment/R$styleable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/graphics/drawable/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/graphics/drawable/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/graphics/drawable/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/print/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/swiperefreshlayout/R$layout.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/swiperefreshlayout/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/appcompat/R$integer.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/appcompat/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/gridlayout/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/viewpager/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/viewpager/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/com/example/daan/tic_tac_toe/MainActivity.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/37/android/support/graphics/drawable/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/38/android/support/coordinatorlayout/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexMerger/debug/0/classes.dex&#10;#&#9;app/build/outputs/apk/debug/app-debug.apk">
+    <list default="true" id="7379d2a9-6e2f-449a-b019-8df57b10862b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tic_Tac_Toe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tic_Tac_Toe.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/daan/tic_tac_toe/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/daan/tic_tac_toe/Game.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/daan/tic_tac_toe/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/daan/tic_tac_toe/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/33/com/example/daan/tic_tac_toe/Game.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/33/com/example/daan/tic_tac_toe/Game.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/33/com/example/daan/tic_tac_toe/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/33/com/example/daan/tic_tac_toe/MainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/MainActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,16 +51,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3128">
-              <caret line="196" column="15" lean-forward="true" selection-start-line="196" selection-start-column="15" selection-end-line="196" selection-end-column="15" />
+            <state relative-caret-position="561">
+              <caret line="111" column="47" lean-forward="true" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="android-designer2">
             <state />
@@ -72,8 +76,8 @@
       <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+            <state relative-caret-position="510">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -2342,14 +2346,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/Game.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/MainActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="530" />
-    <option name="width" value="1395" />
-    <option name="height" value="1090" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="737" />
+    <option name="width" value="1192" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -2522,10 +2527,19 @@
       <option name="presentableId" value="Default" />
       <updated>1541757834379</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gradle/4.6/fileHashes/fileHashes.bin&#10;#&#9;.gradle/4.6/fileHashes/fileHashes.lock&#10;#&#9;.gradle/4.6/javaCompile/classAnalysis.bin&#10;#&#9;.gradle/4.6/javaCompile/javaCompile.lock&#10;#&#9;.gradle/4.6/taskHistory/taskHistory.bin&#10;#&#9;.gradle/4.6/taskHistory/taskHistory.lock&#10;#&#9;.gradle/buildOutputCleanup/buildOutputCleanup.lock&#10;#&#9;app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt&#10;#&#9;app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt&#10;#&#9;app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/daan/tic_tac_toe/MainActivity.class&#10;#&#9;app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/arch/lifecycle/viewmodel/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/compat/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/compat/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/constraint/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coordinatorlayout/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coordinatorlayout/R$layout.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coordinatorlayout/R$styleable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coreui/R$styleable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/coreui/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/customview/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/customview/R$id.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/drawerlayout/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/fragment/R$id.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/fragment/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/fragment/R$styleable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/graphics/drawable/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/graphics/drawable/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/graphics/drawable/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/print/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/swiperefreshlayout/R$layout.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/swiperefreshlayout/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/appcompat/R$integer.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/appcompat/R.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/gridlayout/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/viewpager/R$attr.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/android/support/v7/viewpager/R$style.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/33/com/example/daan/tic_tac_toe/MainActivity.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/37/android/support/graphics/drawable/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexBuilder/debug/38/android/support/coordinatorlayout/R$drawable.dex&#10;#&#9;app/build/intermediates/transforms/dexMerger/debug/0/classes.dex&#10;#&#9;app/build/outputs/apk/debug/app-debug.apk">
+      <created>1541760717705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541760717705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="590" y="0" width="953" height="870" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -2541,7 +2555,7 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.061452515" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -2571,6 +2585,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2581,26 +2598,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3128">
-          <caret line="196" column="15" lean-forward="true" selection-start-line="196" selection-start-column="15" selection-end-line="196" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
       <provider editor-type-id="text-editor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daan/tic_tac_toe/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="111" column="47" lean-forward="true" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

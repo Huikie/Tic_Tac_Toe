@@ -11,7 +11,7 @@ import static com.example.daan.tic_tac_toe.TileState.CIRCLE;
 import static com.example.daan.tic_tac_toe.TileState.CROSS;
 import static com.example.daan.tic_tac_toe.TileState.INVALID;
 
-public class Game {
+public class Game implements Serializable {
     //constant and variable that hold the board
     final private int BOARD_SIZE = 3;
     private TileState[][] board;

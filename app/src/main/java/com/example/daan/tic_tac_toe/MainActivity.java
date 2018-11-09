@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import java.io.Serializable;
+
 import static com.example.daan.tic_tac_toe.GameState.DRAW;
 import static com.example.daan.tic_tac_toe.GameState.PLAYER_ONE;
 import static com.example.daan.tic_tac_toe.GameState.PLAYER_TWO;
@@ -26,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         game = new Game();
         if(savedInstanceState != null){
+
+            game  = (Game) savedInstanceState.getSerializable("game");
 
             String info_text = savedInstanceState.getString("info", null);
             TextView info = findViewById(R.id.gameInfo);
@@ -95,7 +99,6 @@ public class MainActivity extends AppCompatActivity {
         Button button26 = findViewById(R.id.button26);
         String text26 = button26.getText().toString();
 
-
         outState.putString("18", text18);
         outState.putString("19", text19);
         outState.putString("20", text20);
@@ -105,6 +108,8 @@ public class MainActivity extends AppCompatActivity {
         outState.putString("24", text24);
         outState.putString("25", text25);
         outState.putString("26", text26);
+
+        outState.putSerializable("game", game);
 
     }
     public void tileClicked(View view) {
