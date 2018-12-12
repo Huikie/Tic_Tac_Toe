@@ -17,16 +17,22 @@ import static com.example.daan.tic_tac_toe.TileState.CROSS;
 import static com.example.daan.tic_tac_toe.TileState.INVALID;
 
 public class MainActivity extends AppCompatActivity {
+
+    // Variable 'game' holds the game.
     Game game;
+
     public int row;
     public int column;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setRequestedOrientation (ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         setContentView(R.layout.activity_main);
+
+        // Initiate the game
         game = new Game();
+
+        // If there is a state to restore the state will be restored here.
         if(savedInstanceState != null){
 
             game  = (Game) savedInstanceState.getSerializable("game");
@@ -72,6 +78,8 @@ public class MainActivity extends AppCompatActivity {
             button26.setText(button_26_text);
         }
     }
+
+    // This method makes state restoration possible
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState); // always call super
@@ -112,6 +120,8 @@ public class MainActivity extends AppCompatActivity {
         outState.putSerializable("game", game);
 
     }
+
+    // This method processes tile clicks.
     public void tileClicked(View view) {
 
         Button button18 = findViewById(R.id.button18);
@@ -124,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
         Button button25 = findViewById(R.id.button25);
         Button button26 = findViewById(R.id.button26);
 
-
+        // Store coordinates for all the 9 buttons, find out the state of a clicked tile and set it to the right sign (X or O).
         switch(view.getId()){
             case R.id.button18:
                 row = 2;
@@ -253,6 +263,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 break;
         }
+        // Give the users feedback of the (won) gamestate and make the tiles unclickable.
         TextView info = findViewById(R.id.gameInfo);
         if (game.won() == PLAYER_ONE) {
             info.setText("Game Over! Player One has won! Restart the game!");
@@ -291,8 +302,11 @@ public class MainActivity extends AppCompatActivity {
             button26.setClickable(false);
         }
         }
+
+    // This method allows us to simply throw away the old game and create a new one.
     public void resetClicked(View view) {
 
+        // Reset the user interface
         Button button18 = findViewById(R.id.button18);
         Button button19 = findViewById(R.id.button19);
         Button button20 = findViewById(R.id.button20);
@@ -326,6 +340,7 @@ public class MainActivity extends AppCompatActivity {
         TextView info = findViewById(R.id.gameInfo);
         info.setText("Tic-Tac-Toe!");
 
+        // Create a new game.
         game = new Game();
     }
     }
