@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // This method makes state restoration possible
+    /** This method makes state restoration possible.*/
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState); // always call super
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    // This method processes tile clicks.
+    /** This method processes tile clicks.*/
     public void tileClicked(View view) {
 
         Button button18 = findViewById(R.id.button18);
@@ -303,7 +303,7 @@ public class MainActivity extends AppCompatActivity {
         }
         }
 
-    // This method allows us to simply throw away the old game and create a new one.
+    /** This method allows us to simply throw away the old game and create a new one.*/
     public void resetClicked(View view) {
 
         // Reset the user interface

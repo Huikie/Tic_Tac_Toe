@@ -33,7 +33,7 @@ public class Game implements Serializable {
         gameOver = false;
     }
 
-    // Method that allow users to play.
+    /** Method that allow users to play.*/
     public TileState choose(int row, int column) {
 
         // If the current player is player one, return a cross, make playerOneTurn equal to false and do movesPlayed + 1.
@@ -55,7 +55,8 @@ public class Game implements Serializable {
             return INVALID;
         }
     }
-    // This method returns a game that is still in progress, a won game or a draw game. Thereby, when a game has been won the method returns who won the game.
+    /** This method returns a game that is still in progress, a won game or a draw
+     * game. Thereby, when a game has been won the method returns who won the game.*/
     public GameState won() {
         // Check columns on won and who won:
 
