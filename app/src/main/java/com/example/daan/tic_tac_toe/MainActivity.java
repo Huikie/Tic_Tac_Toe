@@ -1,13 +1,11 @@
 package com.example.daan.tic_tac_toe;
 
-import android.content.pm.ActivityInfo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import java.io.Serializable;
 
 import static com.example.daan.tic_tac_toe.GameState.DRAW;
 import static com.example.daan.tic_tac_toe.GameState.PLAYER_ONE;
@@ -82,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
     /** This method makes state restoration possible.*/
     @Override
     public void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState); // always call super
+        super.onSaveInstanceState(outState);
 
         TextView info = findViewById(R.id.gameInfo);
         String info_text = info.getText().toString();

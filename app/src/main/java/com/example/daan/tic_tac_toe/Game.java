@@ -54,6 +54,7 @@ public class Game implements Serializable {
         } else {
             return INVALID;
         }
+
     }
     /** This method returns a game that is still in progress, a won game or a draw
      * game. Thereby, when a game has been won the method returns who won the game.*/
@@ -132,6 +133,7 @@ public class Game implements Serializable {
         if(movesPlayed == 9){
             return DRAW;
         }
+
         else{
             return IN_PROGRESS;
         }
