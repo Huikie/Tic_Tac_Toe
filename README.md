@@ -6,7 +6,7 @@ This is a basic game of tic-tac-toe, where two players take turns pressing butto
 ## Implemented extra's
 - I implemented feedback on the gamestate in a nice way.
 
-This extra is shown in the section "Screenshots of the app".
+This extra is shown in the section "Screenshots of the app" (all images).
 
 ## Screenshots of the app
 ![](https://github.com/Huikie/Tic_Tac_Toe/blob/master/doc/begin.png)
